@@ -1,0 +1,12 @@
+switch(expression){
+    case constant-expression-1:
+    /*statements*/
+    break;
+    case constant-expression-2:
+    /*statements*/
+    break;
+    // Multiple case blocks
+    // Multiple case blocks
+    default:
+    /*statements*/
+}
